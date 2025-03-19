@@ -1,10 +1,10 @@
-<h1>❄️ José Vítor</h1>
-<p>Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have broad interest, familiarity and identification with the progrmaming area, which I have always been close to. I have been attending university since 2023, participating in the organization and development of extension projects, working as a team, and always seeking to improve my learning and knowledge in general.</p>
+<h1>❄️ Victor Daniel</h1>
+<p>Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have a strong interest in programming, a field I have always been passionate about. Since 2023, I have been actively involved in university life, contributing to extension and research projects, collaborating in teams, and continuously seeking to expand my knowledge and skills in the field. Additionally, I am a member of the Developer Community, where I share experiences and enhance my technical expertise.</p>
 
 
 - 💻 Currently working on **Developer's Community**
 
-- 📚 Currently learning **PHP**
+- 📚 Currently learning **JavaScript**
 
 
 <h2> 🔧 Languages / Frameworks</h2> 
@@ -25,11 +25,11 @@
 ## 🔗 Social
 
 <div align="left" style="display: flex; gap: 8px;">
-  <a href="mailto:josevtrleal@gmail.com" target="_blank">
+  <a href="mailto:victordanielsnt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="gmail logo" />
   </a>
   
-  <a href="https://www.linkedin.com/in/jv-270492312" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-daniel-santos-cardoso-ab0787344/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin logo" />
   </a>
 </div>
