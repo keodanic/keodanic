@@ -9,7 +9,7 @@
 
 <h2> 🔧 Languages / Frameworks</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,prisma,nodejs,adonis,reactnative,react,postgres,bootstrap,next,nest,nginx,express,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,prisma,nodejs,adonis,androidstudio,react,postgres,bootstrap,next,nest,nginx,express,git)](https://skillicons.dev)
 
 ## 🛠 Tools
 
