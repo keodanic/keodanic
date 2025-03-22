@@ -1,5 +1,8 @@
 <h1>☯︎ Victor Daniel ☯︎</h1>
 
+
+- 👨‍🎓 Education: Federal Institute of Maranhão (IFMA)
+  
 - 💻 Currently working on **Developer's Community**
 
 - 📚 Currently learning **React Native**
