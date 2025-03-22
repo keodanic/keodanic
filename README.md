@@ -6,8 +6,6 @@
   
 - 💻 Currently working on **Developer's Community**
 
-- 📚 Currently learning **React Native**
-
 
 <h2> ⚠︎ Languages / Frameworks</h2> 
 
