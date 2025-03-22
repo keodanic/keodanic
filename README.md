@@ -7,7 +7,7 @@
 - 📚 Currently learning **React Native**
 
 
-<h2> 🔧 Languages / Frameworks</h2> 
+<h2> ⚠︎ Languages / Frameworks</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,prisma,nodejs,adonis,androidstudio,react,postgres,bootstrap,next,nest,nginx,express,git)](https://skillicons.dev)
 
@@ -22,7 +22,7 @@
 
 
 
-## 🔗 Social
+## ✉︎ Social
 
 <div align="left" style="display: flex; gap: 8px;">
   <a href="mailto:victordanielsnt@gmail.com" target="_blank">
