@@ -1,4 +1,5 @@
 <h1>☯︎ Victor Daniel ☯︎</h1>
+<p>Building the future, one line of code at a time.</p>
 
 
 - 👨‍🎓 Education: Federal Institute of Maranhão (IFMA)
