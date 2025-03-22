@@ -41,6 +41,6 @@
 <div align="left">
     <div align="center">  
       <a href="#dereknguyen269-title">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=donut&border_color=000000&title_color=03045E&icon_color=AD7200&text_color=03045E&bg_color=F3F6F2" alt="Jhopn"               align="right" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=donut&border_color=03045E&title_color=03045E&icon_color=AD7200&text_color=03045E&bg_color=F3F6F2" alt="Jhopn"               align="right" />
       </a>
   </div>
