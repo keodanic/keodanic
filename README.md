@@ -1,6 +1,4 @@
 <h1>☯︎ Victor Daniel ☯︎</h1>
-<p>Full-Stack Developer, currently studying Internet Systems at the Federal Institute of Maranhão (IFMA). I have a strong interest in programming, a field I have always been passionate about. Since 2023, I have been actively involved in university life, contributing to extension and research projects, collaborating in teams, and continuously seeking to expand my knowledge and skills in the field. Additionally, I am a member of the Developer Community, where I share experiences and enhance my technical expertise.</p>
-
 
 - 💻 Currently working on **Developer's Community**
 
