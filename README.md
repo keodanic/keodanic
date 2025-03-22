@@ -38,10 +38,9 @@
 - - -
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <a>
-    <img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=keodanic&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-
-  <img height="151px" width="369px" src="https://nirzak-streak-stats.vercel.app/?user=keodanic&theme=dark&hide_border=true"/>
-</div>
+<div align="left">
+    <div align="center">  
+      <a href="#dereknguyen269-title">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhopn&layout=donut&border_color=000000&title_color=FFA800&icon_color=AD7200&text_color=FFA800&bg_color=000000" alt="Jhopn"               align="right" />
+      </a>
+  </div>
