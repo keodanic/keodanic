@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Education: Federal Institute of Maranhão (IFMA)
   
-- 💻 Currently working on **Developer's Community**
+- 💻 Currently working on **Simplifit Academias**
 
 
 <h2> ⚠︎ Languages / Frameworks</h2> 
