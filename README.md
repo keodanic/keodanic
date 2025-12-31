@@ -63,20 +63,10 @@
 
 ### 📊 Atividade no GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=keodanic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=keodanic&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keodanic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=compact&theme=default&langs_count=6&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keodanic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keodanic&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0d1117)
 
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keodanic&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keodanic&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
