@@ -17,7 +17,7 @@
   <p>O que eu uso no dia a dia para construir aplicações:</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,next,nest,nodejs,prisma,postgres,docker,git,nginx,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react native,nest,next,prisma,postgres,docker,git,nginx,linux&perline=6" />
   </a>
 
   <br/><br/>
@@ -25,7 +25,7 @@
   <details>
     <summary><b>Outras Tecnologias & Estudos</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=python,androidstudio,adonis,bootstrap,html,css,vscode,insomnia,trello" />
+    <img src="https://skillicons.dev/icons?i=expo,androidstudio,bootstrap,html,css,vscode,insomnia,trello" />
   </details>
 
   <br/>
