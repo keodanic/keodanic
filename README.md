@@ -1,49 +1,44 @@
 <div align="center">
-  <h1>👋 Olá, eu sou Victor Daniel</h1>
-  <p><em>Desenvolvedor Full Stack | Transformando ideias em soluções digitais</em></p>
+  <h1>👋 Victor Daniel</h1>
+  <p><em>Backend Engineer | Mobile Developer</em></p>
+  <p>Transformando café em APIs robustas e apps nativos</p>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor apaixonado por tecnologia e inovação, atualmente cursando no **Instituto Federal do Maranhão (IFMA)**. Meu foco está em criar aplicações robustas e escaláveis que resolvem problemas reais.
+Tecnólogo em **Sistemas para Internet** pelo IFMA. Atuo profissionalmente como desenvolvedor **Backend & Mobile** na **Simplifit Academias**, onde construo APIs escaláveis e aplicações mobile que impactam milhares de usuários diariamente.
 
-🔭 **Projeto Atual:** Desenvolvendo soluções para **Simplifit Academias**  
-💡 **Objetivo:** Construir o futuro, uma linha de código por vez
+Meu trabalho envolve arquitetar soluções serverless, otimizar queries complexas e garantir que cada requisição seja tratada com performance e segurança. Do banco de dados ao app na mão do usuário, eu cuido de toda a stack.
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
+### Backend Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Database & Tools
+### Mobile Development
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Development Environment
+### Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
@@ -79,5 +74,5 @@ Sou desenvolvedor apaixonado por tecnologia e inovação, atualmente cursando no
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=keodanic&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   
-  <p><em>"O código é poesia em movimento"</em></p>
+  <p><em>"Código limpo não é sobre fazer funcionar. É sobre fazer funcionar para sempre."</em></p>
 </div>
