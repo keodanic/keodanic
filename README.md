@@ -24,6 +24,6 @@
   
   ### 💻 Stack de Tecnologias
   
-  ![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,docker,python,git,spring)
+  ![Tech Stack](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,docker,postgres,androidstudio,nextjs,git)
   
 </div>
